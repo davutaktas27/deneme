@@ -10,7 +10,7 @@ while True:
         print("Hoşgeldiniz...")
         break
 
-listeler=[3,4,5]
+listeler=[3,4]
 
 for i in range(1,10):
     if(i in listeler):
